@@ -4,6 +4,7 @@
 
 from __future__ import print_function
 from datetime import datetime
+import calendar
 import ConfigParser
 import duo_client
 import optparse
